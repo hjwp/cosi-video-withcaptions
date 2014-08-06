@@ -1527,7 +1527,7 @@
         <BoundPropertyFloat Name="Volume" Value="0" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="65" gapBefore="0" mediaItemID="3" inTime="795.87" outTime="806.76999999999998" speed="1" stabilizationMode="0">
+    <VideoClip extentID="65" gapBefore="0" mediaItemID="3" inTime="797.87" outTime="806.76999999999998" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1536,7 +1536,7 @@
         <BoundPropertyFloat Name="Volume" Value="0" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="66" gapBefore="0" mediaItemID="15" duration="2">
+    <ImageClip extentID="66" gapBefore="0" mediaItemID="15" duration="4">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1550,7 +1550,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="68" gapBefore="0" mediaItemID="3" inTime="808.76999999999998" outTime="832.66999999999996" speed="1" stabilizationMode="0">
+    <VideoClip extentID="68" gapBefore="0" mediaItemID="3" inTime="809.76999999999998" outTime="832.66999999999996" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1559,7 +1559,7 @@
         <BoundPropertyFloat Name="Volume" Value="0" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="69" gapBefore="0" mediaItemID="16" duration="2">
+    <ImageClip extentID="69" gapBefore="0" mediaItemID="16" duration="3">
       <Effects />
       <Transitions />
       <BoundProperties>
