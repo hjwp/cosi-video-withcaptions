@@ -2,8 +2,11 @@
 <Project name="cosi-act2" themeId="0" version="65540" templateID="SimpleProjectTemplate">
   <MediaItems>
     <MediaItem id="17" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide187.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="18" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide181.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="1" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide153.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="19" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide182.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="2" filePath="D:\Videos\cosi-disc2-audio.mp3" arWidth="0" arHeight="0" duration="3268.9200000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="20" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide183.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="3" filePath="D:\Videos\cosi-disc2-deinterlaced.mp4" arWidth="720" arHeight="400" duration="3268.886" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="4" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide146.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="5" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide155.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
@@ -506,7 +509,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="75" gapBefore="0" mediaItemID="3" inTime="994.09000000000003" outTime="1323.5496371882086" speed="1" stabilizationMode="0">
+    <VideoClip extentID="75" gapBefore="0" mediaItemID="3" inTime="994.09000000000003" outTime="1311.5489569160998" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -572,7 +575,37 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <VideoClip extentID="85" gapBefore="0" mediaItemID="3" inTime="1314.55" outTime="1323.5496371882086" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <ImageClip extentID="86" gapBefore="0" mediaItemID="18" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="87" gapBefore="0" mediaItemID="19" duration="0.5">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <ImageClip extentID="34" gapBefore="0" mediaItemID="1" duration="4">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="88" gapBefore="0" mediaItemID="20" duration="0.5">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -688,6 +721,10 @@
         <ExtentRef id="72" />
         <ExtentRef id="76" />
         <ExtentRef id="75" />
+        <ExtentRef id="86" />
+        <ExtentRef id="87" />
+        <ExtentRef id="88" />
+        <ExtentRef id="85" />
         <ExtentRef id="78" />
         <ExtentRef id="80" />
         <ExtentRef id="79" />
