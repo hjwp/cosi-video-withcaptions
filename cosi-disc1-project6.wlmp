@@ -48,6 +48,7 @@
     <MediaItem id="45" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide108.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="46" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide110.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="47" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide112.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="48" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide114.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
   </MediaItems>
   <Extents>
     <VideoClip extentID="5" gapBefore="0" mediaItemID="3" inTime="307.75999999999999" outTime="317.22666666666663" speed="1" stabilizationMode="0">
@@ -1652,6 +1653,15 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <VideoClip extentID="101" gapBefore="0" mediaItemID="3" inTime="2925.8800000000001" outTime="3161.3171882086167" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1.0117647647857666" />
+      </BoundProperties>
+    </VideoClip>
     <VideoClip extentID="102" gapBefore="0" mediaItemID="3" inTime="2247.2800000000002" outTime="2291.1642403628121" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -1693,6 +1703,13 @@
         <BoundPropertyFloat Name="Volume" Value="1.0117647647857666" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="107" gapBefore="0" mediaItemID="48" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="108" gapBefore="0" mediaItemID="3" inTime="2808.3400000000001" outTime="2865.6653968253972" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -1789,6 +1806,15 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <VideoClip extentID="121" gapBefore="0" mediaItemID="3" inTime="3161.3171882086167" outTime="4666.2826666000001" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1.0117647647857666" />
+      </BoundProperties>
+    </VideoClip>
     <VideoClip extentID="122" gapBefore="0" mediaItemID="3" inTime="2616.46" outTime="2662.5814285714287" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -1805,7 +1831,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="124" gapBefore="0" mediaItemID="3" inTime="2906.4519727891156" outTime="4666.2826666000001" speed="1" stabilizationMode="0">
+    <VideoClip extentID="124" gapBefore="0" mediaItemID="3" inTime="2906.4519727891156" outTime="2923.8766893424036" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1970,6 +1996,9 @@
         <ExtentRef id="118" />
         <ExtentRef id="115" />
         <ExtentRef id="124" />
+        <ExtentRef id="107" />
+        <ExtentRef id="101" />
+        <ExtentRef id="121" />
       </ExtentRefs>
     </ExtentSelector>
     <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
