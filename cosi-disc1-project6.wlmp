@@ -45,6 +45,9 @@
     <MediaItem id="42" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide104.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="43" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide106.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="44" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide89.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="45" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide108.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="46" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide110.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="47" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide112.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
   </MediaItems>
   <Extents>
     <VideoClip extentID="5" gapBefore="0" mediaItemID="3" inTime="307.75999999999999" outTime="317.22666666666663" speed="1" stabilizationMode="0">
@@ -1560,6 +1563,15 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <VideoClip extentID="90" gapBefore="0" mediaItemID="3" inTime="2743.4400000000001" outTime="2806.3420408163265" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1.0117647647857666" />
+      </BoundProperties>
+    </VideoClip>
     <VideoClip extentID="91" gapBefore="0" mediaItemID="3" inTime="1602.5799999999999" outTime="1638.5799999999999" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -1579,6 +1591,13 @@
       </BoundProperties>
     </VideoClip>
     <ImageClip extentID="93" gapBefore="0" mediaItemID="28" duration="5">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="94" gapBefore="0" mediaItemID="45" duration="3">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1674,6 +1693,15 @@
         <BoundPropertyFloat Name="Volume" Value="1.0117647647857666" />
       </BoundProperties>
     </VideoClip>
+    <VideoClip extentID="108" gapBefore="0" mediaItemID="3" inTime="2808.3400000000001" outTime="2865.6653968253972" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1.0117647647857666" />
+      </BoundProperties>
+    </VideoClip>
     <VideoClip extentID="109" gapBefore="0" mediaItemID="3" inTime="2478.1100000000001" outTime="2533.4691836734696" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -1684,6 +1712,13 @@
       </BoundProperties>
     </VideoClip>
     <ImageClip extentID="110" gapBefore="0" mediaItemID="38" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="111" gapBefore="0" mediaItemID="46" duration="2">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1706,6 +1741,15 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <VideoClip extentID="115" gapBefore="0" mediaItemID="3" inTime="2867.6700000000001" outTime="2906.4519727891156" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1.0117647647857666" />
+      </BoundProperties>
+    </VideoClip>
     <VideoClip extentID="116" gapBefore="0" mediaItemID="3" inTime="2573.8400000000001" outTime="2594.5531519274377" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -1716,6 +1760,13 @@
       </BoundProperties>
     </VideoClip>
     <ImageClip extentID="117" gapBefore="0" mediaItemID="40" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="118" gapBefore="0" mediaItemID="47" duration="2">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1754,6 +1805,15 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <VideoClip extentID="124" gapBefore="0" mediaItemID="3" inTime="2906.4519727891156" outTime="4666.2826666000001" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1.0117647647857666" />
+      </BoundProperties>
+    </VideoClip>
     <VideoClip extentID="126" gapBefore="0" mediaItemID="3" inTime="2665.5799999999999" outTime="2729.9058503401361" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -1770,7 +1830,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="129" gapBefore="0" mediaItemID="3" inTime="2729.9058503401361" outTime="4666.2826666000001" speed="1" stabilizationMode="0">
+    <VideoClip extentID="129" gapBefore="0" mediaItemID="3" inTime="2729.9058503401361" outTime="2740.4417687074824" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1903,6 +1963,13 @@
         <ExtentRef id="127" />
         <ExtentRef id="126" />
         <ExtentRef id="129" />
+        <ExtentRef id="94" />
+        <ExtentRef id="90" />
+        <ExtentRef id="111" />
+        <ExtentRef id="108" />
+        <ExtentRef id="118" />
+        <ExtentRef id="115" />
+        <ExtentRef id="124" />
       </ExtentRefs>
     </ExtentSelector>
     <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
