@@ -94,7 +94,7 @@
       <Transitions />
       <BoundProperties>
         <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
+        <BoundPropertyFloat Name="Volume" Value="0" />
       </BoundProperties>
     </AudioClip>
     <TitleClip extentID="10" gapBefore="13.853032248360771" duration="6.2999999999999998">
@@ -1916,7 +1916,7 @@
       <BoundProperties>
         <BoundPropertyBool Name="Mute" Value="false" />
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
     <TitleClip extentID="137" gapBefore="2678.1933200724538" duration="5">
