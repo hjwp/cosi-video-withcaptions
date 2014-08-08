@@ -1255,7 +1255,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="133" gapBefore="0" mediaItemID="3" inTime="3098.6700000000001" outTime="3115.8407482993198" speed="1" stabilizationMode="0">
+    <VideoClip extentID="133" gapBefore="0" mediaItemID="3" inTime="3099.6700000000001" outTime="3115.8407482993198" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1264,7 +1264,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="134" gapBefore="0" mediaItemID="48" duration="5">
+    <ImageClip extentID="134" gapBefore="0" mediaItemID="48" duration="6">
       <Effects />
       <Transitions />
       <BoundProperties>
