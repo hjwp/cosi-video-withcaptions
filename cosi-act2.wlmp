@@ -533,7 +533,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <TitleClip extentID="30" gapBefore="3129.7710884353742" duration="5.1692879818597248">
+    <TitleClip extentID="30" gapBefore="3129.7731746031741" duration="5.1692879818597248">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1300,7 +1300,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="133" gapBefore="0" mediaItemID="3" inTime="3099.6700000000001" outTime="3115.8407482993198" speed="1" stabilizationMode="0">
+    <VideoClip extentID="133" gapBefore="0" mediaItemID="3" inTime="3099.6700000000001" outTime="3110.925215419501" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1316,7 +1316,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="136" gapBefore="0" mediaItemID="3" inTime="3120.8400000000001" outTime="3127.3660770975057" speed="1" stabilizationMode="0">
+    <VideoClip extentID="136" gapBefore="0" mediaItemID="3" inTime="3115.9299999999998" outTime="3125.3036961451244" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1332,7 +1332,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="141" gapBefore="0" mediaItemID="3" inTime="3133.3699999999999" outTime="3268.886" speed="1" stabilizationMode="0">
+    <VideoClip extentID="141" gapBefore="0" mediaItemID="3" inTime="3131.3000000000002" outTime="3268.886" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
