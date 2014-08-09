@@ -22,7 +22,9 @@
     <MediaItem id="9" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide30.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="63" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Despina.jpg" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="10" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide32.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="64" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Fiordiligi.jpg" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="11" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide34.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="65" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Dorabella.jpg" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="12" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide38.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="13" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide40.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="14" filePath="D:\Dropbox-Win\Dropbox\popup\captions\cosi\Cosi_v27_video_captions\Slide42.JPG" arWidth="960" arHeight="720" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
@@ -164,6 +166,15 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <VideoClip extentID="172" gapBefore="0" mediaItemID="3" inTime="118.43000000000001" outTime="122.34553287981861" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
     <AudioClip extentID="9" gapBefore="0" mediaItemID="2" inTime="0" outTime="0" speed="1">
       <Effects />
       <Transitions />
@@ -172,6 +183,68 @@
         <BoundPropertyFloat Name="Volume" Value="0" />
       </BoundProperties>
     </AudioClip>
+    <TitleClip extentID="173" gapBefore="78.577374020531053" duration="3.9155328798185991">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Century Schoolbook" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="BEGIN" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="leftToRight" Value="true" />
+            <BoundPropertyFloatSet Name="length">
+              <BoundPropertyFloatElement Value="4.0999999046325684" />
+              <BoundPropertyFloatElement Value="5.1999998092651367" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="maxExtent" Value="5" />
+            <BoundPropertyFloatSet Name="outlineColor">
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="outlineSizeIndex" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="-4.5647745132446289" />
+              <BoundPropertyFloatElement Value="-1.1627907752990723" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.43333333730697632" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Fiordiligi: A passionate woman of the " />
+              <BoundPropertyStringElement Value="strongest character (although it is said she " />
+              <BoundPropertyStringElement Value="is rather fond of a drink)" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="BoldItalic" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="175" gapBefore="0" mediaItemID="64" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="12" gapBefore="0" mediaItemID="3" inTime="53.670000000000002" outTime="87.00333333333333" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -256,7 +329,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="18" gapBefore="0" mediaItemID="3" inTime="90" outTime="146.69999999999999" speed="1" stabilizationMode="0">
+    <VideoClip extentID="18" gapBefore="0" mediaItemID="3" inTime="90" outTime="117.42530612244897" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -279,6 +352,15 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <VideoClip extentID="183" gapBefore="0" mediaItemID="3" inTime="123.34999999999999" outTime="146.69999999999999" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
     <ImageClip extentID="20" gapBefore="0" mediaItemID="9" duration="2">
       <Effects />
       <Transitions />
@@ -339,7 +421,7 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <TitleClip extentID="21" gapBefore="77.137423813567835" duration="5">
+    <TitleClip extentID="185" gapBefore="1" duration="0.64451691321818316">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -401,7 +483,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <TitleClip extentID="23" gapBefore="0.39498258226316807" duration="5">
+    <TitleClip extentID="186" gapBefore="-0.64451491321818322" duration="5">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -456,6 +538,13 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
+    <ImageClip extentID="187" gapBefore="0" mediaItemID="65" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="24" gapBefore="0" mediaItemID="3" inTime="149.69" outTime="199.95666666666665" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -495,7 +584,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <TitleClip extentID="29" gapBefore="27.152994835584423" duration="5">
+    <TitleClip extentID="29" gapBefore="26.183335333333318" duration="5">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -2535,6 +2624,10 @@
         <ExtentRef id="12" />
         <ExtentRef id="19" />
         <ExtentRef id="18" />
+        <ExtentRef id="175" />
+        <ExtentRef id="172" />
+        <ExtentRef id="187" />
+        <ExtentRef id="183" />
         <ExtentRef id="27" />
         <ExtentRef id="24" />
         <ExtentRef id="34" />
@@ -2685,8 +2778,9 @@
       <ExtentRefs>
         <ExtentRef id="135" />
         <ExtentRef id="161" />
-        <ExtentRef id="21" />
-        <ExtentRef id="23" />
+        <ExtentRef id="173" />
+        <ExtentRef id="185" />
+        <ExtentRef id="186" />
         <ExtentRef id="29" />
         <ExtentRef id="30" />
         <ExtentRef id="38" />
