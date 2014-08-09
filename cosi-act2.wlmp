@@ -107,14 +107,6 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <AudioClip extentID="6" gapBefore="0" mediaItemID="2" inTime="0" outTime="0" speed="1">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </AudioClip>
     <VideoClip extentID="7" gapBefore="0" mediaItemID="3" inTime="0" outTime="5" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -1420,7 +1412,6 @@
       <Transitions />
       <BoundProperties />
       <ExtentRefs>
-        <ExtentRef id="6" />
         <ExtentRef id="8" />
       </ExtentRefs>
     </ExtentSelector>
